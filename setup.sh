@@ -3,7 +3,7 @@
 # Переменные окружения
 CONFIG_FILE="config.env"
 PYTHON_VERSION="python3"
-VENV_DIR="venv"
+VENV_DIR="Cula"
 LOG_DIR="logs"
 LOG_FILE="$LOG_DIR/bot.log"
 
